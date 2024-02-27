@@ -1,7 +1,7 @@
 client setup
 ```npm i```
 client dev run
-```npm start``
+```npm start```
 
 server setup
 ```npm i```
